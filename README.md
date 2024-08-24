@@ -8,11 +8,20 @@ Hi there 👋, I'm Sucheta Sarkar
   <img src="https://github-profile-trophy.vercel.app/?username=suchetasarkar20&theme=light" alt="GitHub Stats" />
 </p>
 
+## Tech Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
 
-## Activity Graph for Sucheta 
-[![Sucheta's GitHub activity graph]
+## Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/sucheta-sarkar-5a6869225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/jussstttt.su?igsh=MW00M2h4eDgweTExbQ%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:your-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://x.com/sarkar2001su/status/1827364901129486348?s=12" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.hackerrank.com/profile/suchetasarkar349" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 
-(https://github-readme-activity-graph.vercel.app/graph?username=suchetasarkar20&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Github stats 
 
