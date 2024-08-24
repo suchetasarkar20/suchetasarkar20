@@ -1,7 +1,16 @@
 Hi there 👋, I'm Sucheta Sarkar 
 <hr style="border:1px solid #ccc">
 
+Front-End Developer | Passionate about Crafting Responsive and Intuitive Interfaces | Open to Collaborations
 
+👨‍💻 I specialize in building user-centric web applications, focusing on clean, maintainable code. I am proficient in HTML, CSS, JavaScript, and frameworks like React.
+
+🌱 Currently learning C.
+
+🔍 Looking to collaborate on innovative projects that challenge my skills and contribute to meaningful solutions.
+
+📫 Feel free to reach out for collaborations or to connect!
+suchetasarkar0120@gmail.com
 
 ## 📊 GitHub Stats
 <p align="center">
