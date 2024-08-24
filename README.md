@@ -9,12 +9,10 @@ Hi there 👋, I'm Sucheta Sarkar
 </p>
 
 
+## Activity Graph for Sucheta 
+[![Sucheta's GitHub activity graph]
 
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=suchetasarkar20&bg_color=000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+(https://github-readme-activity-graph.vercel.app/graph?username=suchetasarkar20&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Github stats 
 
